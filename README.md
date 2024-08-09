@@ -10,7 +10,6 @@
   <img align="center" alt="Mateus-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   <br></br>
-🌱 Atualmente Estudando -> Unity
 <!--
 **Massnt/Massnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
